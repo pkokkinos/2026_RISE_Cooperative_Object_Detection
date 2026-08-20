@@ -7,11 +7,10 @@ This repository contains the full implementation for the paper:
 > **A Study on Cooperative Object Detection Using Adaptive YOLOv8 and Feature Fusion**  
 > Submitted to RISE 2026 workshop (https://rise-workshop.github.io/) of the Euro-Par 2026 Conference (https://2026.euro-par.org/).
 
-Authors: D. Konidaris M. Kalligiannis A. Kretsis P. Kokkinos E. Varvarigos
-
+**Authors: D. Konidaris M. Kalligiannis A. Kretsis P. Kokkinos E. Varvarigos
 Affiliations: Department of Digital Systems, University of Peloponnese
 Institute of Communication and Computer Systems (ICCS)
-National Technical University of Athens
+National Technical University of Athens**
 ---
 
 ## What this paper does
