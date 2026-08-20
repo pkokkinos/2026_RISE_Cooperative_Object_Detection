@@ -5,7 +5,7 @@
 This repository contains the full implementation for the paper:
 
 > **A Study on Cooperative Object Detection Using Adaptive YOLOv8 and Feature Fusion**  
-> Submitted to RISE 2026, Springer LNCS
+> Submitted to RISE 2026 workshop (https://rise-workshop.github.io/) of the Euro-Par 2026 Conference (https://2026.euro-par.org/).
 
 ---
 
