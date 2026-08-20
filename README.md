@@ -174,5 +174,5 @@ The central server:
 
 If you use this code or dataset, please cite:
 
-Paper not in proceedings yet - just add the linke of this page.
+Paper not in proceedings yet - just add the link of this page.
 
