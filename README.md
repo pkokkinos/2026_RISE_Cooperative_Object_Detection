@@ -18,6 +18,8 @@ National Technical University of Athens**
 
 A multi-drone swarm where each drone processes only its own short video clip independently, extracts compact semantic telemetry (object embeddings + color descriptors), and transmits it to a central fusion server. The server matches objects across drones using appearance similarity and fuses their confidence scores — recovering detections that no single drone could confirm alone.
 
+In practice, not drones or other robots are used. This is just the envisaged scenario of use.
+
 ```
 Each Drone:
   Video clip → YOLOv8 (detect) → [crop each box] → MobileNetV3 (576-dim embedding)
