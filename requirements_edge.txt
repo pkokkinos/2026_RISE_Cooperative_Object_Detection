@@ -1,0 +1,9 @@
+# Edge Benchmark Dependencies
+torch
+torchvision
+ultralytics
+opencv-python-headless
+scikit-learn
+pandas
+psutil
+scipy

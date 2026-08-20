@@ -1,0 +1,8 @@
+torch
+torchvision
+ultralytics
+opencv-python
+scikit-learn
+pandas
+psutil
+scipy
