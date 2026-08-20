@@ -174,6 +174,5 @@ The central server:
 
 If you use this code or dataset, please cite:
 
-Paper not in proceeding yet - just add this page.
+Paper not in proceedings yet - just add the linke of this page.
 
-"# 2026_RISE_Cooperative_Object_Detection" 
