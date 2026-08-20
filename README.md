@@ -174,14 +174,6 @@ The central server:
 
 If you use this code or dataset, please cite:
 
-```bibtex
-@inproceedings{yourname2026cooperative,
-  title     = {A Study on Cooperative Object Detection Using Adaptive YOLOv8 and Feature Fusion},
-  author    = {Your Name and Co-author},
-  booktitle = {Proceedings of RISE 2026},
-  series    = {Lecture Notes in Computer Science},
-  publisher = {Springer},
-  year      = {2026}
-}
-```
+Paper not in proceeding yet - just add this page.
+
 "# 2026_RISE_Cooperative_Object_Detection" 
