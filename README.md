@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ```
 
 ---
-
+<!-- 
 ## Reproducing the paper results
 
 ### Table 2 — Confirmed chair detections across model tiers and quality
@@ -147,6 +147,7 @@ python edge_benchmark_standalone.py --video input_low.mp4 --model yolov8n.pt
 ```
 
 ---
+This is a comment -->
 
 ## Pipeline explained
 
