@@ -13,6 +13,10 @@ This repository contains the full implementation for the paper:
 Institute of Communication and Computer Systems (ICCS)
 National Technical University of Athens**
 ---
+## Contact
+
+For questions regarding the code, datasets, or experimental results, please contact:
+Panagiotis Kokkinos, p.kokkinos@go.uop.gr
 
 ## What this paper does
 
